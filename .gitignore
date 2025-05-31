@@ -156,5 +156,19 @@ xcuserdata
 # After new code Injection tools there's a generated folder /iOSInjectionProject
 # https://github.com/johnno1962/injectionforxcode
 
+*.DS_Store
+*.xcscheme
+*xcuserdatad
+*.orig
+*xcshareddata
+.idea
+.artifacts
+Forma-loc-iOS_generated.swift
+/derivedData/
+/build/
+/fastlane/report.xml
+graph.dot
+.bundle
+/vendor
 
 # End of https://www.toptal.com/developers/gitignore/api/swift,swiftpm,swiftpackagemanager,cocoapods,objective-c,xcode,xcodeinjection
