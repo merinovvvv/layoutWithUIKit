@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+enum LoginWith: String, CaseIterable{
+    case google, apple, facebook
+}
